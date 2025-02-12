@@ -5,6 +5,19 @@ Mapty is an interactive web application that allows users to log their workouts 
 ## Live Demo
 You can try the live demo of the application here: [Mapty Live Demo](https://orasanuana.github.io/Mapty/)
 
+## Overview
+
+### Map Your Workouts
+This application allows you to map your workouts by adding pins to a map and recording your workout details:
+
+![Workout on Map](https://github.com/OrasanuAna/Mapty/blob/master/Mapty_Pictures/workout_on_a_map.jpg)
+
+### Add Workout Details
+Easily log your workout details, such as type, distance, duration, and more:
+
+![Add Workout](https://github.com/OrasanuAna/Mapty/blob/master/Mapty_Pictures/add_workout.jpg)
+
+
 ## Features
 - **Add workouts**: Users can enter details about running or cycling workouts.
 - **Display on the map**: Workouts are marked on the map using Leaflet.
