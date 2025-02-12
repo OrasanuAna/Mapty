@@ -32,7 +32,14 @@ To run the application locally:
 2. Open `index.html` in a browser.
 
 ## Mapty Flowchart
+Mapty Flowchart
 ![Mapty Flowchart](https://github.com/OrasanuAna/Mapty/blob/master/Mapty-flowchart.png)
+
+Mapty Architecture
+![Mapty Architecture](https://github.com/OrasanuAna/Mapty/blob/master/Mapty-architecture-part-1.png)
+
+Mapty Architecture Final
+![Mapty Architecture Final](https://github.com/OrasanuAna/Mapty/blob/master/Mapty-architecture-final.png)
 
 
 ## Author
